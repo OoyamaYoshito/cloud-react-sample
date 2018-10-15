@@ -17,6 +17,7 @@ class App extends Component {
           <p>
             I like bekomoti and shishitou. 
           </p>
+          <p>(*´ω｀*)</p>
         </header>
       </div>
     );
