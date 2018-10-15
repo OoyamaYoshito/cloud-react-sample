@@ -15,7 +15,7 @@ class App extends Component {
             My name is Ooyama Yoshito.
           </p>
           <p>
-            I like bekomoti.
+            I like bekomoti and shishitou. 
           </p>
         </header>
       </div>
